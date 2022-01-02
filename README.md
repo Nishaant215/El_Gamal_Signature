@@ -4,7 +4,7 @@ This is an interactive script to demonstrate the El Gamal Signature Algorithm
 
 Review the **ElGamal Signature Redacted.pdf** to understand the algorithm.
 
-
+Run the script: **El_Gamal_Signature.py**
 
 The plaintext used was letter 'L'
 
